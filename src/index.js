@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+// import './index.css';
+import './assets/css/episodePage.css';
+import './assets/css/fontawesome-all.css';
+import './assets/css/main.css';
+import './assets/css/seasonPage.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
